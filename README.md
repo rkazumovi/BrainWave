@@ -2,8 +2,8 @@ BrainWave 🧠
 
 A fully responsive, fully-coded AI landing page kit built with React, Vite, and Tailwind CSS — based on the Brainwave UI8 design kit.
 
-🔗 Live Demo: brain-wave-site.netlify.app
-🎨 Design Source: Brainwave AI Landing Page Kit on UI8
+🔗 Live Demo: https://brain-wave-site.netlify.app/
+🎨 Design Source: https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm
 
 
 Overview
