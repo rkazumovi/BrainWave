@@ -71,7 +71,7 @@ Start the development server
 bash   npm run dev
 
 
-Open your browser and navigate to https://brain-wave-site.netlify.app/
+Open your browser and navigate to http://localhost:5173
 
 
 Build for Production
