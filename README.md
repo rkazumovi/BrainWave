@@ -1,5 +1,7 @@
 # BrainWave 🧠
 
+<img width="1800" height="1360" alt="brainwave-1" src="https://github.com/user-attachments/assets/368d7a12-6e67-453a-a80c-2c14f054ae12" />
+
 A fully responsive, fully-coded AI landing page kit built with **React**, **Vite**, and **Tailwind CSS** — based on the [Brainwave UI8 design kit](https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm).
 
 🔗 **Live Demo:** [brain-wave-site.netlify.app](https://brain-wave-site.netlify.app/)
